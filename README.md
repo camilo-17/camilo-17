@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://camilocaro.com/)
 
-- 🌱 I’m currently learning **Flutte**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://camilocaro.com/](https://camilocaro.com/)
 
