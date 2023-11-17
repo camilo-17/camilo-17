@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Caro</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate full stack developer from Colombia</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://camilocaro.com/)
 
